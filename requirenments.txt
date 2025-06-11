@@ -1,0 +1,6 @@
+librosa
+numpy
+scikit-learn
+soundfile
+pandas
+sounddevice
